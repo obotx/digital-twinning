@@ -1,3 +1,5 @@
+https://github.com/cvg/pixel-perfect-sfm
+
 https://github.com/MIT-SPARK
 
 https://www.projectaria.com/research/efm3D/
