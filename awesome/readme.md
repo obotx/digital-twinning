@@ -13,3 +13,5 @@ https://github.com/ywyue/FiT3D
 https://monst3r-project.github.io/
 
 https://www.lerf.io/
+
+https://github.com/DepthAnything/Depth-Anything-V2
