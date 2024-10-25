@@ -1,3 +1,5 @@
+https://github.com/VisualComputingInstitute/diffusion-e2e-ft
+
 https://github.com/cvg/pixel-perfect-sfm
 
 https://github.com/MIT-SPARK
