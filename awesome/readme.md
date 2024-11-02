@@ -17,3 +17,5 @@ https://monst3r-project.github.io/
 https://www.lerf.io/
 
 https://github.com/DepthAnything/Depth-Anything-V2
+
+https://github.com/naver/dust3r
