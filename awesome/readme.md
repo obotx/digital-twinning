@@ -23,3 +23,6 @@ https://www.lerf.io/
 https://github.com/DepthAnything/Depth-Anything-V2
 
 https://github.com/naver/dust3r
+
+
+Mesh optimization: https://github.com/LLNL/SAMRAI
