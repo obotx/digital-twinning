@@ -315,6 +315,16 @@ This is:
 ## Final Result
 
 ✔ Dense COLMAP mesh (reference geometry)
+
 ✔ Clean SuGaR geometry (OBJ)
+
 ✔ High-quality textured mesh (PLY)
+
 ✔ Fully reproducible pipeline on Colab
+
+
+### ✍️ Written by Gabriel Cicotoste
+🔗 GitHub: [Ga0512](https://github.com/Ga0512)  
+
+🔗 LinkedIn: [Gabriel Cicotoste](https://www.linkedin.com/in/gabrielcicotoste/)
+
