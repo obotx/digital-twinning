@@ -34,6 +34,8 @@ Example dataset: **Bear**
 
 * [https://huggingface.co/mqye/Gaussian-Grouping/blob/main/data/bear.zip](https://huggingface.co/mqye/Gaussian-Grouping/blob/main/data/bear.zip)
 
+https://github.com/user-attachments/assets/843c38ac-fe03-416f-849c-9467ac1376ad
+
 **Notes:**
 
 * The pipeline is **object-agnostic**
