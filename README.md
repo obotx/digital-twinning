@@ -1,4 +1,4 @@
-# Digital-Twin Pipeline: From Images to Mesh (SAM3 + COLMAP + 3DGS + SuGaR)
+# Digital-Twin Pipeline Comparasion: From Images to Mesh (SAM3 + COLMAP vs SAM3 + 3DGS + SuGaR)
 
 > **Goal**
 > Reconstruct a clean 3D mesh of a single object from multiple images using **SAM3-based segmentation**, **COLMAP (sparse + dense via PyCOLMAP)**, **3D Gaussian Splatting (3DGS)**, and **SuGaR**.
