@@ -3,8 +3,10 @@
 > **Goal**
 > Reconstruct a clean 3D mesh of a single object from multiple images using **SAM3-based segmentation**, **COLMAP (sparse + dense via PyCOLMAP)**, **3D Gaussian Splatting (3DGS)**, and **SuGaR**.
 
-This README documents the **exact pipeline used**, updated to reflect a **fully working dense COLMAP stage on Colab using PyCOLMAP CUDA**, and designed to be **replicable end-to-end**.
+<img width="935" height="600" alt="image" src="https://github.com/user-attachments/assets/8ef060ff-1fc1-447a-847e-bee8ab0f0c21" />
 
+
+This README documents the **exact pipeline used**, updated to reflect a **fully working dense COLMAP stage on Colab using PyCOLMAP CUDA**, and designed to be **replicable end-to-end**.
 ---
 
 ## Overview (Big Picture)
@@ -244,7 +246,7 @@ generate_poisson_mesh(
 )
 ```
 
-![ImageToStl com_mesh_urso ply](https://github.com/user-attachments/assets/657de03a-cb8c-4638-9eb0-91ecc688cca8)
+https://github.com/user-attachments/assets/694c1692-06dc-4c24-8faa-b6227ce81ee6
 
 
 ---
@@ -287,8 +289,11 @@ python train_full_pipeline.py \
   --white_background True
 ```
 
-![obj](https://github.com/user-attachments/assets/2fff1312-7ade-4adf-8717-d3158858d4af)
-![gaussian](https://github.com/user-attachments/assets/2a8e0de5-afe0-4c5e-9313-71b2d695a4ab)
+
+https://github.com/user-attachments/assets/abca39a3-0b9d-49fb-9fea-2ad4388083ad
+
+https://github.com/user-attachments/assets/fb2ecc8f-d366-45a8-8018-90f7d0851bcd
+
 
 ---
 
