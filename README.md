@@ -1,7 +1,6 @@
 # Digital-Twin Pipeline Comparasion: From Images to Mesh (SAM3 + COLMAP vs SAM3 + 3DGS + SuGaR)
 
-> **Goal**
-> Reconstruct a clean 3D mesh of a single object from multiple images using **SAM3-based segmentation**, **COLMAP (sparse + dense via PyCOLMAP)**, **3D Gaussian Splatting (3DGS)**, and **SuGaR**.
+> Comparison of 3D reconstruction of a single object from multiple images using SAM3-based segmentation, between the COLMAP pipeline (sparse + dense via PyCOLMAP) and the 3D Gaussian Splatting (3DGS) and SuGaR methods.
 
 <img width="935" height="600" alt="image" src="https://github.com/user-attachments/assets/8ef060ff-1fc1-447a-847e-bee8ab0f0c21" />
 
