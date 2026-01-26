@@ -245,7 +245,11 @@ generate_poisson_mesh(
 )
 ```
 
-https://github.com/user-attachments/assets/694c1692-06dc-4c24-8faa-b6227ce81ee6
+
+
+https://github.com/user-attachments/assets/fbc80e6f-c74f-4139-8532-198d64b87699
+
+
 
 
 ---
@@ -289,9 +293,10 @@ python train_full_pipeline.py \
 ```
 
 
-https://github.com/user-attachments/assets/abca39a3-0b9d-49fb-9fea-2ad4388083ad
+https://github.com/user-attachments/assets/957c488f-5fa1-4846-8fdd-da5bf2ec6bef
 
-https://github.com/user-attachments/assets/fb2ecc8f-d366-45a8-8018-90f7d0851bcd
+https://github.com/user-attachments/assets/3a689d73-552c-4277-97bf-74d81d0b670c
+
 
 
 ---
@@ -325,6 +330,11 @@ This is:
 ✔ High-quality textured mesh (PLY)
 
 ✔ Fully reproducible pipeline on Colab
+
+## ⭐ New: Placing Objects in the MuJoCo
+https://github.com/user-attachments/assets/0d22a238-63cb-4d1e-b0f3-81334a2adc0a
+
+View the complete repository [here](https://github.com/obotx/3D-scene-reconstruction-and-segmentation-to-universal-scene-description-usd). 
 
 
 ### ✍️ Written by Gabriel Cicotoste
